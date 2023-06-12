@@ -7,4 +7,4 @@ I use my free time to play guitar and hang out with my friends.
 
 You can check my GitHub Profile [here](https://github.com/FiSpro).
 
-Check my latest [project](https://github.com/FiSpro/Live-Chat-Project---Talko).
+Check my latest [project](https://github.com/FiSpro/RPSLS).

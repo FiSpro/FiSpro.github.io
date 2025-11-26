@@ -12,4 +12,4 @@ From August to December 2023, I completed an internship at the same company as a
 
 You can check my GitHub Profile [here](https://github.com/FiSpro).
 
-Check my latest [project](https://github.com/FiSpro/food-recipe-app).
+Check my latest [project](https://github.com/FiSpro/mern-stack-products).
